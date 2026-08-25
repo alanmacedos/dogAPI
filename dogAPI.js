@@ -1,4 +1,4 @@
-const DOG_API = "https://dog.ceo/api/breeds/image/random";
+const DOG_API = "https://dog.ceo/api/breed/dachshund/images/random";
 
 async function getData(url) {
 
